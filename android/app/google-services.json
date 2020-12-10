@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "625117253701",
+    "firebase_url": "https://chatflutter-5ae89.firebaseio.com",
+    "project_id": "chatflutter-5ae89",
+    "storage_bucket": "chatflutter-5ae89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625117253701:android:d25b421cc79335e860d32c",
+        "android_client_info": {
+          "package_name": "br.com.santana.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625117253701-tkutr7nbf1iok2qf3aql91sofj6qtke0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.santana.chat",
+            "certificate_hash": "f057908c6bef467735e7ae1c6d827ebaebbdd7f3"
+          }
+        },
+        {
+          "client_id": "625117253701-rps941cinaa5h8lhot9rtaobvjni1j9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQLYKilbn_kaA7ku6O1VOYNr2A-Rruwzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625117253701-rps941cinaa5h8lhot9rtaobvjni1j9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
