@@ -69,6 +69,7 @@ class _TextComposerState extends State<TextComposer> {
                 ? () {
                     widget.sendMessage(text: _controller.text);
                     _reset();
+                    FocusScope.of(context).requestFocus(new FocusNode());
                   }
                 : null,
           ),
